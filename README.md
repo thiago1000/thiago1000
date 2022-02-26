@@ -2,9 +2,9 @@
 
 <hr>
 
-<p> Sou apaixonado por tecnologia, futebol e investimentos, sempre a procura de mais conhecimento</p>
+<p> Sou apaixonado por tecnologia, futebol e investimentos, sempre a procura de mais conhecimento.</p>
 
-<p>Algumas tecnologias que uso no meu dia a dia</p>
+<p>Algumas tecnologias que uso no meu dia a dia.</p>
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
