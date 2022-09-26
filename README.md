@@ -2,7 +2,7 @@
 
 <hr>
 
-<p> Sou apaixonado por tecnologia, futebol e investimentos, sempre a procura de mais conhecimento.</p>
+<p> Sou apaixonado por tecnologia, futebol e cinema, sempre a procura de mais conhecimento.</p>
 
 <p>Algumas tecnologias que uso no meu dia a dia.</p>
 
